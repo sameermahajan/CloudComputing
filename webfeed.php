@@ -7,7 +7,7 @@ function showRSS(str) {
     return;
   }
   if (window.XMLHttpRequest) {
-  /code for IE7+, Firefox, Chrome, Opera, Safari 
+  //code for IE7+, Firefox, Chrome, Opera, Safari 
   xmlhttp=new XMLHttpRequest();
   } else { 
   // code for IE6, IE5
@@ -18,8 +18,9 @@ function showRSS(str) {
      document.getElementById("rssOutput").innerHTML=this.responseText;
     }
    }
-   xmlhttp.open("GET","getrss.php?q="+str,true);
-  xmlhttp.send();}
+   xmlhttp.open("GET","webfeed.php?q="+str,true);
+  xmlhttp.send();
+  }
 </script>
 </head>
 <body>
