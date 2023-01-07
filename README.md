@@ -10,6 +10,7 @@ AWS Assignment
 - edit default index.html for the web server
 - edit inbound rule of VM to allow port 80
 - connect to web server from your local browser
+
 Complete assignment video: https://youtu.be/RLeQ9lNROr0
 
 Deploy the following php scripts in a new folder under htdocs folder of your XAMPP deployment
