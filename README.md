@@ -1,5 +1,7 @@
 # CloudComputing
 
+Slideshare link: https://www.slideshare.net/SameerMahajan6/cloud-computing-255086032
+
 AWS Assignment
 
 - login into AWS Management Console
