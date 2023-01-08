@@ -1,8 +1,8 @@
 # CloudComputing
 
-Slideshare link: https://www.slideshare.net/SameerMahajan6/cloud-computing-255086032
+Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMahajan6/cloud-computing-255086032
 
-AWS Assignment
+1. AWS Assignment (EC2, connectivity)
 
 - login into AWS Management Console
 - create Ubuntu EC2 instance VM
@@ -15,7 +15,7 @@ AWS Assignment
 
 Complete assignment video: https://youtu.be/RLeQ9lNROr0
 
-Web feed reader
+2. Web feed reader
 - Install xampp from https://www.apachefriends.org/ 
 - Open XAMPP Control Panel
 - Start Apache
@@ -26,3 +26,7 @@ Web feed reader
 - RSS Feed Reader chrome plugin
 
 Complete assignment video: https://youtu.be/0co2rns_9Bs
+
+3. Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight
+
+Complete assignment video: https://youtu.be/4VJvjnkDDfs
