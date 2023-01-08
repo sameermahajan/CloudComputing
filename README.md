@@ -16,17 +16,17 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
     Complete assignment video: https://youtu.be/RLeQ9lNROr0
 
 2. Web feed reader
-  - Install xampp from https://www.apachefriends.org/ 
-  - Open XAMPP Control Panel
-  - Start Apache
-  - Create a folder in c:\xampp\htdocs, say demo
-  - In demo folder write your html embedded with php and suffix it .php
-  - Open localhost/demo from your browser
-  - Navigate to your file. Try webfeed.php for webfeed
-  - RSS Feed Reader chrome plugin
+    - Install xampp from https://www.apachefriends.org/ 
+    - Open XAMPP Control Panel
+    - Start Apache
+    - Create a folder in c:\xampp\htdocs, say demo
+    - In demo folder write your html embedded with php and suffix it .php
+    - Open localhost/demo from your browser
+    - Navigate to your file. Try webfeed.php for webfeed
+    - RSS Feed Reader chrome plugin
 
-  Complete assignment video: https://youtu.be/0co2rns_9Bs
+    Complete assignment video: https://youtu.be/0co2rns_9Bs
 
 3. Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight
 
-  Complete assignment video: https://youtu.be/4VJvjnkDDfs
+    Complete assignment video: https://youtu.be/4VJvjnkDDfs
