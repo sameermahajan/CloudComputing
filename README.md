@@ -4,16 +4,16 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
 
 1. AWS Assignment (EC2, connectivity)
 
-  - login into AWS Management Console
-  - create Ubuntu EC2 instance VM
-  - create public - private key pair
-  - connect to VM using putty and .ppk
-  - install apache web server on VM
-  - edit default index.html for the web server
-  - edit inbound rule of VM to allow port 80
-  - connect to web server from your local browser
+    - login into AWS Management Console
+    - create Ubuntu EC2 instance VM
+    - create public - private key pair
+    - connect to VM using putty and .ppk
+    - install apache web server on VM
+    - edit default index.html for the web server
+    - edit inbound rule of VM to allow port 80
+    - connect to web server from your local browser
 
-  Complete assignment video: https://youtu.be/RLeQ9lNROr0
+    Complete assignment video: https://youtu.be/RLeQ9lNROr0
 
 2. Web feed reader
   - Install xampp from https://www.apachefriends.org/ 
