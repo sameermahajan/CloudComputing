@@ -4,7 +4,7 @@ This is an elective for MSc Computer Science, Savitribai Phule Pune University
 
 Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMahajan6/cloud-computing-255086032
 
-1. <b> AWS Assignment </b> (EC2, connectivity)
+1. <b> AWS Assignment </b> (EC2, ubuntu VM, web server, IAM, connectivity)
 
     - login into AWS Management Console
     - create Ubuntu EC2 instance VM
