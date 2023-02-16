@@ -1,5 +1,7 @@
 # CloudComputing
 
+This is an elective for MSc Computer Science, Savitribai Phule Pune University
+
 Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMahajan6/cloud-computing-255086032
 
 1. AWS Assignment (EC2, connectivity)
@@ -28,5 +30,6 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
     Complete assignment video: https://youtu.be/0co2rns_9Bs
 
 3. Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight
-
+    How to setup Big Data Fabric in AWS cloud native way using AWS Glue, Athena and QuickSight. It gives quick hands on with AWS Glue, Athena and QuickSight to get you started and up running with them.
+    
     Complete assignment video: https://youtu.be/4VJvjnkDDfs
