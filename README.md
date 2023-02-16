@@ -17,7 +17,7 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
 
     Complete assignment video: https://youtu.be/RLeQ9lNROr0
 
-2. Web feed reader
+2. <b> Web feed reader </b>
     - Install xampp from https://www.apachefriends.org/ 
     - Open XAMPP Control Panel
     - Start Apache
@@ -29,6 +29,6 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
 
     Complete assignment video: https://youtu.be/0co2rns_9Bs
 
-3. Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight: How to setup Big Data Fabric in AWS cloud native way using AWS Glue, Athena and QuickSight. It gives quick hands on with AWS Glue, Athena and QuickSight to get you started and up running with them.
+3. <b> Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight </b> : How to setup Big Data Fabric in AWS cloud native way using AWS Glue, Athena and QuickSight. It gives quick hands on with AWS Glue, Athena and QuickSight to get you started and up running with them.
     
     Complete assignment video: https://youtu.be/4VJvjnkDDfs
