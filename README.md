@@ -33,10 +33,13 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
     
     Complete assignment video: https://youtu.be/4VJvjnkDDfs
 4. AWS CLI
+   
    https://youtu.be/N4ExbzRf5DU
-   aws
-   aws configure
-   aws s3 ls
-   aws s3 ls cp <src> <dest>
+
+   - aws
+   - aws configure
+   - aws s3 ls
+   - aws s3 cp <src> <dest>
 6. AWS EBS
+   
    https://youtu.be/oLp0LMz1ddQ
