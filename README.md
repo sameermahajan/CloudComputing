@@ -32,3 +32,11 @@ Slideshare link for complete lecture notes : https://www.slideshare.net/SameerMa
 3. <b> Setting up Big Data Fabric using AWS s3, Glue, Athena and QuickSight </b> : How to setup Big Data Fabric in AWS cloud native way using AWS Glue, Athena and QuickSight. It gives quick hands on with AWS Glue, Athena and QuickSight to get you started and up running with them.
     
     Complete assignment video: https://youtu.be/4VJvjnkDDfs
+4. AWS CLI
+   https://youtu.be/N4ExbzRf5DU
+   aws
+   aws configure
+   aws s3 ls
+   aws s3 ls cp <src> <dest>
+6. AWS EBS
+   https://youtu.be/oLp0LMz1ddQ
